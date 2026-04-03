@@ -1,4 +1,4 @@
-# Real_estate_pricing_and_performance_analytics# Real Estate Market Analysis Dashboard | Power BI
+# Real_estate_pricing_and_performance_analytics Dashboard | Power BI
 
 ## Overview
 This project presents an end-to-end **Real Estate Market Analysis Dashboard** developed using **Power BI**.  
